@@ -3,17 +3,17 @@
 
     <item
         android:id="@+id/first_fragment"
-        android:title="Photos"
+        android:title="Home"
         android:icon="@drawable/icon_photos"/>
 
     <item
         android:id="@+id/second_fragment"
-        android:title="Videos"
+        android:title="Report"
         android:icon="@drawable/icon_photos"/>
 
     <item
         android:id="@+id/third_fragment"
-        android:title="Private"
+        android:title="Track"
         android:icon="@drawable/icon_photos"/>
 
 
